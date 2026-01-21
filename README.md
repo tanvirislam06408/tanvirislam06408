@@ -64,7 +64,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/tanvirislam06408/tanvirislam06408/output/snake.svg" alt="Snake animation" />
-
-###
