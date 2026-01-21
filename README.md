@@ -1,8 +1,5 @@
 <h1 align="left">Hey 👋 Tanvir Hassan</h1>
 
-###
-
-<p align="left">Front-end Web Developer (Learner)<br>On the journey to becoming a MERN Stack Developer 🚀</p>
 
 ###
 
