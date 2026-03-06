@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">📚 Currently Learning<br><br>Advanced JavaScript<br><br>Responsive Web Design<br><br>React.js<br><br>Backend fundamentals (Node.js, Express.js)<br><br>MongoDB<br><br>🎯 Goals<br><br>Become a confident Front-End Developer<br><br>Learn full MERN Stack development<br><br>Build real-world projects<br><br>Improve problem-solving and clean code practices</p>
+<p align="left">📚 Currently Learning<br><br>Advanced JavaScript<br><br>Backend fundamentals (Node.js, Express.js)<br><br>MongoDB<br><br>🎯 Goals<br><br>Become a confident Front-End Developer<br><br>Learn full MERN Stack development<br><br>Build real-world projects<br><br>Improve problem-solving and clean code practices</p>
 
 ###
 
