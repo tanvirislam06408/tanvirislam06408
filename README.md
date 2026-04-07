@@ -4,13 +4,13 @@
 <h1 align="left">Hey there 👋 I'm Tanvir Hassan</h1>
 
 <p align="left">
-  🚀 Front-End Web Development Learner &nbsp;|&nbsp; 🎯 Aspiring MERN Stack Developer <br/>
-  📍 Bangladesh &nbsp;|&nbsp; 📧 mstanvirislam05@gmail.com
+   Front-End Web Development Learner &nbsp;|&nbsp; 🎯 Aspiring MERN Stack Developer <br/>
+   Bangladesh &nbsp;|&nbsp; 📧 mstanvirislam05@gmail.com
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a passionate self-taught developer from Bangladesh on a mission to become a confident **MERN Stack Developer**. I love building real-world projects that solve actual problems — and I believe clean code and consistency are what separate good developers from great ones.
 
@@ -38,7 +38,7 @@ I'm a passionate self-taught developer from Bangladesh on a mission to become a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS"/>
 </div>
 
-**Backend & Database** *(Currently Learning)*
+**Backend & Database**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
