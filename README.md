@@ -1,23 +1,24 @@
 <!-- BANNER — Replace with your own Canva banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanvir%20Hassan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20MERN%20Learner&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanvir%20Hassan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
 
 <h1 align="left">Hey there 👋 I'm Tanvir Hassan</h1>
 
 <p align="left">
-   Front-End Web Development Learner &nbsp;|&nbsp; 🎯 Aspiring MERN Stack Developer <br/>
+   MERN Stack Developer &nbsp;|&nbsp; 🚀 Full-Stack Web Developer <br/>
    Bangladesh &nbsp;|&nbsp; 📧 mstanvirislam05@gmail.com
 </p>
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I'm a passionate self-taught developer from Bangladesh on a mission to become a confident **MERN Stack Developer**. I love building real-world projects that solve actual problems — and I believe clean code and consistency are what separate good developers from great ones.
+I'm a passionate self-driven developer from Bangladesh focused on building scalable, responsive, and user-friendly web applications using the MERN stack. I enjoy transforming real-world ideas into modern digital experiences with clean code and efficient development practices.
 
-- 🔭 I'm currently building projects with **React + Firebase + Node.js**
-- 🌱 Actively learning **Advanced JavaScript, Node.js, Express.js & MongoDB**
-- 💡 I enjoy turning ideas into working web apps
-- 🎯 Goal: Master the full **MERN Stack** and contribute to open source
+- 🔭 Currently building full-stack applications with **MongoDB, Express.js, React & Node.js**
+- ⚡ Experienced with **Next.js, Firebase, Tailwind CSS & REST APIs**
+- 💡 Passionate about clean UI, performance optimization, and scalable architecture
+- 🛠️ Focused on writing maintainable and efficient code
+- 🌍 Interested in open-source contribution and collaborative development
 - 📫 Reach me: **mstanvirislam05@gmail.com**
 
 ---
@@ -35,7 +36,9 @@ I'm a passionate self-taught developer from Bangladesh on a mission to become a 
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
 </div>
 
 **Backend & Database**
@@ -80,11 +83,12 @@ I'm a passionate self-taught developer from Bangladesh on a mission to become a 
 
 | Area | Status |
 |---|---|
-| Advanced JavaScript (closures, async, etc.) | 🔄 In Progress |
-| Node.js & Express.js | 🔄 In Progress |
-| MongoDB & Mongoose | 🔄 In Progress |
-| Building full-stack MERN projects | 🔄 In Progress |
-| Problem solving & clean code habits | 🔄 Always |
+| Full-Stack MERN Applications | 🚀 Building |
+| REST API Development | 🚀 Active |
+| Authentication & Security | 🚀 Improving |
+| Scalable Backend Architecture | 🚀 Exploring |
+| Performance Optimization | 🚀 Ongoing |
+| Clean Code & Best Practices | 🚀 Always |
 
 ---
 
