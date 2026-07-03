@@ -40,9 +40,13 @@ Git · GitHub · VS Code
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirislam06408&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tanvirislam06408&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirislam06408&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirislam06408&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages"/> -->
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanvirislam06408/tanvirislam06408/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
 </div>
 
 <div align="center">
